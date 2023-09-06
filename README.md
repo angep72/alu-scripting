@@ -1,2 +1,2 @@
-Scripting using ruby
+Scripting using ruby languange
 
